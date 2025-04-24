@@ -1,0 +1,15 @@
+datasets
+scikit-learn
+pandas
+numpy
+tqdm
+matplotlib
+regex
+python-multipart
+joblib
+
+flask==2.2.3
+spacy==3.4.1
+transformers==4.22.0
+torch==1.11.0
+chardet==4.0.0
