@@ -63,6 +63,6 @@ python app.py
 ---
 
 ## Screenshots:
-![Alt Text](1.png)
-![Alt Text](2.png)
+![Alt Text](img1.png)
+![Alt Text](img2.png)
 
