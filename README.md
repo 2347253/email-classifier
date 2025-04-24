@@ -62,6 +62,7 @@ python app.py
 
 ---
 
-## Deployment
+## Screenshots:
+![Alt Text](1.png)
+![Alt Text](2.png)
 
-This API is deployed on Hugging Face Spaces.
