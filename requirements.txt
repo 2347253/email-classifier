@@ -11,7 +11,7 @@ joblib
 flask==2.2.3
 spacy==3.4.1
 transformers==4.22.0
-tokenizers==0.13.3
+tokenizers
 torch==2.2.0
 chardet==4.0.0
 gunicorn
